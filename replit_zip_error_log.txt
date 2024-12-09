@@ -1,0 +1,5 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20","time":"2024-12-06T18:01:21Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-12-06T18:01:21Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/web","time":"2024-12-06T18:01:21Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/sass","time":"2024-12-06T18:01:21Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/lib/node_modules/sass/node_modules/.bin/detect-libc","time":"2024-12-06T18:01:21Z"}
